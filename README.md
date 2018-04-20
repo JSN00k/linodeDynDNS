@@ -7,7 +7,6 @@ Make sure that you have the python libraries requests and json installed:
 
 ```
 pip install requests
-pip install json
 ```
 
 Edit the python script with the details required at the top. A token to access your linode can be generated [here](https://cloud.linode.com/profile/tokens). Check the script works, then set up a cron job to run the script as often as you feel is rquired.
